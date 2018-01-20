@@ -1,3 +1,3 @@
 # kellyjellybelly.github.io
 
-Making my first basic lil website! Created by a total beginner with html & css
+This will be my personal website sometime in the future! It is under MAJOR DEVELOPMENT
